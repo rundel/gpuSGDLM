@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+src/*.o
+src/*.so
+src/*.dll
+src/SGDLM/*.o
+src/SGDLM/*.so
+src/SGDLM/*.dll
+src/Makevars
